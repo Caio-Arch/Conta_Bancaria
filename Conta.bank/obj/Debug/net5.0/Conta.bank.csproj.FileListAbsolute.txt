@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.exe
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.deps.json
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.runtimeconfig.json
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.dll
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\ref\Conta.bank.dll
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\bin\Debug\net5.0\Conta.bank.pdb
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.AssemblyInfo.cs
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.dll
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\ref\Conta.bank.dll
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.pdb
+C:\Users\acer\Desktop\Conta Bancaria com Net. Core\Conta.bank\obj\Debug\net5.0\Conta.bank.genruntimeconfig.cache
